@@ -25,7 +25,7 @@ Being a NYU Student enthusiastic in Tech Field!
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center"> 
-	<a href="www.linkedin.com/in/chun-ho-hung-025400184"><img width="45px" src="https://img.shields.io/badge/--blue?style=social&logo=Linkedin&logoColor=blue" alt="Chun-Ho Hung" /> </a>
+	<a href="https://www.linkedin.com/in/chun-ho-hung-025400184"><img width="45px" src="https://img.shields.io/badge/--blue?style=social&logo=Linkedin&logoColor=blue" alt="Chun-Ho Hung" /> </a>
 
 <div>
 
