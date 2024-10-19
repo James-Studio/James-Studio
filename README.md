@@ -43,9 +43,9 @@ Skills
 ### Software & System Development:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![ZenHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=zenhub&logoColor=white)
-![Docker](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%23F7DF1E)
-![Kubernetes](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=kubernetes&logoColor=%23F7DF1E)
+![ZenHub](https://img.shields.io/badge/zenhub-%23121011.svg?style=for-the-badge&logo=zenhub&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23323330.svg?style=for-the-badge&logo=docker&logoColor=%23F7DF1E)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23323330.svg?style=for-the-badge&logo=kubernetes&logoColor=%23F7DF1E)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
