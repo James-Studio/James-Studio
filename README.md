@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **James-Studio/James-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +27,7 @@ Being a NYU Student enthusiastic in Tech Field!
 <p align="center"> 
 	<a href="www.linkedin.com/in/chun-ho-hung-025400184"><img width="45px" src="https://img.shields.io/badge/--blue?style=social&logo=Linkedin&logoColor=blue" alt="Chun-Ho Hung" /> </a>
 
+<div>
 
 <h3 align="center">
 Skills
@@ -53,8 +52,8 @@ Skills
 
 
 ### Machine Learning:
-![PyTorch](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23316192.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/tensorflow-%23316192.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
