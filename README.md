@@ -44,16 +44,17 @@ Skills
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ZenHub](https://img.shields.io/badge/zenhub-%23121011.svg?style=for-the-badge&logo=zenhub&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0DB7ED.svg?style=for-the-badge&logo=docker&logoColor=%23F7DF1E)
-![Kubernetes](https://img.shields.io/badge/kubernetes-3970E4.svg?style=for-the-badge&logo=kubernetes&logoColor=%23F7DF1E)
+![Docker](https://img.shields.io/badge/docker-0DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-3970E4.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![DevOps](https://img.shields.io/badge/devops-36B5AC.svg?style=for-the-badge&logo=devops&logoColor=%white)
 
 
 ### Machine Learning:
-![PyTorch](https://img.shields.io/badge/pytorch-%23316192.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/tensorflow-%23316192.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-F05F42.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/tensorflow-EB8323.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
