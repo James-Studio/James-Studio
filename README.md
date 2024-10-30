@@ -39,7 +39,7 @@ Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%009DDE.svg?style=for-the-badge&logo=javascript&logoColor=%white)
+![Go](https://img.shields.io/badge/go-009DDE.svg?style=for-the-badge&logo=javascript&logoColor=%white)
 
 ### Frameworks:
 ![React](https://img.shields.io/badge/react-9717F5.svg?style=for-the-badge&logo=pytorch&logoColor=white)
