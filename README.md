@@ -39,8 +39,22 @@ Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Go](https://img.shields.io/badge/go-%009DDE.svg?style=for-the-badge&logo=javascript&logoColor=%white)
 
-### Software Development:
+### Frameworks:
+![React](https://img.shields.io/badge/react-9717F5.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-4A7652.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTest](https://img.shields.io/badge/pytest-40A213.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Node.js](https://img.shields.io/badge/nodejs-4A7652.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-0D9276.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Django](https://img.shields.io/badge/django-87A96B.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-4A7652.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-F05F42.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/tensorflow-EB8323.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0DB7ED.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -49,12 +63,10 @@ Skills
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![DevOps](https://img.shields.io/badge/devops-36B5AC.svg?style=for-the-badge&logo=devops&logoColor=%white)
+![Amazon Web Service](https://img.shields.io/badge/aws-F9C70C.svg?style=for-the-badge&logo=devops&logoColor=%white)
+![Google Cloud Platform](https://img.shields.io/badge/gcp-FFDC2E.svg?style=for-the-badge&logo=devops&logoColor=%white)
 
 
-### Machine Learning:
-![PyTorch](https://img.shields.io/badge/pytorch-F05F42.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![Tensorflow](https://img.shields.io/badge/tensorflow-EB8323.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+
 
