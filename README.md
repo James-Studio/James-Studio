@@ -23,11 +23,13 @@ NYU Student enthusiastic in Software Engineering and Machine Learning!
 
 🖥️ Currently looking for 2025 US Summer SWE Intern (Full-Stack & Backend) & ML Intern <br>
 
-<h3 align="center">Let's Connect!</h3>
+<h3 align="center">My Resume & Linkedin</h3>
 <p align="center"> 
-	<a href="https://www.linkedin.com/in/chun-ho-hung-025400184"><img width="45px" src="https://img.shields.io/badge/--blue?style=social&logo=Linkedin&logoColor=blue" alt="Chun-Ho Hung" /> </a>
-
-<div>
+	<a href="https://drive.google.com/file/d/1uLrFBv-n6nqw4WvPAS93OP0JhRDJSXkl/view?usp=sharing"><img width="45px" src="https://img.shields.io/badge/--red?style=social&logo=Adobe%20Acrobat%20Reader&logoColor=red" alt="Resume" /> </a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/chun-ho-hung-025400184"><img width="45px" src="https://img.shields.io/badge/--blue?style=social&logo=Linkedin&logoColor=blue" alt="Linkedin" /> </a>
+	
+</p>
 
 <h3 align="center">
 Skills
