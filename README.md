@@ -25,7 +25,7 @@ NYU Student enthusiastic in Software Engineering and Machine Learning!
 
 <h3 align="center">My Resume & Linkedin</h3>
 <p align="center"> 
-	<a href="https://drive.google.com/file/d/1mlcxhiscWHrzDqJIkEPNT7htMMDRV9My/view?usp=sharing"><img width="90" height="90" src="https://img.icons8.com/clouds/200/adobe-acrobat.png" alt="adobe-acrobat"/> </a>
+	<a href="https://drive.google.com/file/d/1U4ARD_y1R5L83m2rebRe0SbFyq1ebb5G/view?usp=sharing"><img width="90" height="90" src="https://img.icons8.com/clouds/200/adobe-acrobat.png" alt="adobe-acrobat"/> </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/chun-ho-hung-025400184"><img width="90" height="90" src="https://img.icons8.com/clouds/200/linkedin.png" alt="linkedin"/> </a>
  
