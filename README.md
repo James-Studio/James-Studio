@@ -63,7 +63,7 @@ Skills
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-0D9276.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Django](https://img.shields.io/badge/django-87A96B.svg?style=for-the-badge&logo=django&logoColor=white)
 
-### - Machine Learning -
+### - Machine Learning & Deep Learning -
 ![PyTorch](https://img.shields.io/badge/pytorch-F05F42.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-EB8323.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
