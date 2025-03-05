@@ -47,12 +47,9 @@ Skills
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 
-### - Distributed Computing -
+### - Distributed Computing & Parallel Computing -
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white)
-
-
-### - Parallel Computing -
 ![CUDA](https://img.shields.io/badge/CUDA-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP-3CB371.svg?style=for-the-badge&logo=openmp&logoColor=white)
 
