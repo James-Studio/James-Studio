@@ -21,7 +21,7 @@ NYU Student enthusiastic in Software Engineering and Machine Learning!
 👨‍💻 Teaching Assistant @ NYU Courant Mathematical Institute <br> (Graduate Course: DevOps and Agile Methodologies - Advanced Software Engineering) <br>
 🌱 Focus Area: Large-Scale Software Development & Machine/Deep Learning <br>
 
-🖥️ Currently looking for 2025 US Summer SWE Intern (Full-Stack & Backend) & ML Intern <br>
+🖥️ Currently looking for 2026 US Spring SWE Intern (Full-Stack & Backend) & ML Intern <br>
 
 <h3 align="center">My Resume & Linkedin</h3>
 <p align="center"> 
