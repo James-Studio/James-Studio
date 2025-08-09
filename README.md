@@ -18,14 +18,15 @@ NYU Student enthusiastic in Software Engineering and Machine Learning!
 
 ## About Me:
 📚 Master of Science in Computer Science @ NYU Courant Mathematical Institute <br>
+👨‍💻 SDE Intern @ TSMC <br>
 👨‍💻 Teaching Assistant @ NYU Courant Mathematical Institute <br> (Graduate Course: DevOps and Agile Methodologies - Advanced Software Engineering) <br>
 🌱 Focus Area: Large-Scale Software Development & Machine/Deep Learning <br>
 
-🖥️ Currently looking for 2026 US Spring SWE Intern (Full-Stack & Backend) & ML Intern <br>
+🖥️ Currently looking for 2026 US SDE & ML New Grad Position <br>
 
 <h3 align="center">My Resume & Linkedin</h3>
 <p align="center"> 
-	<a href="https://drive.google.com/file/d/1ltHz1sN8XfzpaJSobbomg8o2koNaJAEc/view?usp=sharing"><img width="90" height="90" src="https://img.icons8.com/clouds/200/adobe-acrobat.png" alt="adobe-acrobat"/> </a>
+	<a href="https://drive.google.com/file/d/1cP2jRCatka4FPUt_PoM27MpdT6Pj9s8c/view?usp=sharing"><img width="90" height="90" src="https://img.icons8.com/clouds/200/adobe-acrobat.png" alt="adobe-acrobat"/> </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/chun-ho-hung-025400184"><img width="90" height="90" src="https://img.icons8.com/clouds/200/linkedin.png" alt="linkedin"/> </a>
  
