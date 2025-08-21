@@ -18,8 +18,8 @@ NYU Student enthusiastic in Software Engineering and Machine Learning!
 
 ## About Me:
 📚 Master of Science in Computer Science @ NYU Courant Mathematical Institute <br>
-👨‍💻 SDE Intern @ TSMC <br>
 👨‍💻 Teaching Assistant @ NYU Courant Mathematical Institute <br> (Graduate Course: DevOps and Agile Methodologies - Advanced Software Engineering) <br>
+👨‍💻 Ex-SDE Intern @ TSMC <br>
 🌱 Focus Area: Large-Scale Software Development & Machine/Deep Learning <br>
 
 🖥️ Currently looking for 2026 US SDE & ML New Grad Position <br>
