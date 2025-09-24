@@ -18,6 +18,7 @@ NYU Student enthusiastic in Software Engineering and Machine Learning!
 
 ## About Me:
 📚 Master of Science in Computer Science @ NYU Courant Mathematical Institute <br>
+👨‍💻 Software Engineer @ Citigroup (Capstone)
 👨‍💻 Teaching Assistant @ NYU Courant Mathematical Institute <br> (Graduate Course: DevOps and Agile Methodologies - Advanced Software Engineering) <br>
 👨‍💻 Ex-SDE Intern @ TSMC <br>
 🌱 Focus Area: Large-Scale Software Development & Machine/Deep Learning <br>
