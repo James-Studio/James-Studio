@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">
-NYU Student enthusiastic in Software Engineering and Machine Learning!
+System Development and Machine Learning Enthusiast!
 </h2> 
 
 ## About Me:
