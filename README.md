@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">
-System Development and Machine Learning Enthusiast!
+System Development Enthusiast!
 </h2> 
 
 ## About Me:
 📚 Master of Science in Computer Science @ NYU Courant Mathematical Institute <br>
-👨‍💻 <b> Software Engineer @ Citigroup (Capstone) </b> <br>
+👨‍💻 Ex-SDE @ Citigroup (Capstone) <br>
 👨‍💻 Ex-SDE Intern @ TSMC <br>
-🌱 Focus Area: Large-Scale Software Development & Machine/Deep Learning <br>
+🌱 Focus Area: Large-Scale Software Development (Distributed System, Cloud Native Infra) <br>
 
-🖥️ Currently looking for 2026 US SDE & ML New Grad Position <br>
+🖥️ Currently looking for 2026 US SDE (Infra) Position <br>
 
 <h3 align="center">My Resume & Linkedin</h3>
 <p align="center"> 
