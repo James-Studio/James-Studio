@@ -24,9 +24,9 @@ System Development Enthusiast!
 
 🖥️ Currently looking for 2026 US SDE (Infra) Position <br>
 
-<h3 align="center">My Resume & Linkedin</h3>
+<h3 align="center">My Website & Linkedin</h3>
 <p align="center"> 
-	<a href="https://drive.google.com/file/d/1m6R4LhWh8BY6CVPIYzowTzDhUSlo54ie/view?usp=sharing"><img width="90" height="90" src="https://img.icons8.com/clouds/200/adobe-acrobat.png" alt="adobe-acrobat"/> </a>
+	<a href="https://cs-chunho.vercel.app/"><img width="90" height="90" src="https://img.icons8.com/clouds/200/adobe-acrobat.png" alt="adobe-acrobat"/> </a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/chun-ho-hung-025400184"><img width="90" height="90" src="https://img.icons8.com/clouds/200/linkedin.png" alt="linkedin"/> </a>
  
